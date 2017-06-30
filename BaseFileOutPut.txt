@@ -1,0 +1,4 @@
+0:This is test for java io
+1:start Bufferedreader
+2:waiting...
+3:finish
