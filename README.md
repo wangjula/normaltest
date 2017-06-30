@@ -1,1 +1,1 @@
-"# normaltest" 
+# think in java normal 
